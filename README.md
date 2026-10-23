@@ -193,16 +193,13 @@ Not included: the scripts and style sheets of the CRA web page (saved during the
 (British Columbia on 1 July 2026 and Ontario on 1 January 2026, Halifax and Toronto). The text of every result
 screen is in `result.txt`.
 
-## Who is informed
+## Who was informed
 
-We are reporting these results, together with this repository, to:
-
-- CRA, PDOC team (feedback form of the PDOC page and CRA service feedback);
-- CRA, payroll deductions formulas (T4127);
-- CRA, accessibility service feedback (alternate formats);
-- National Payroll Institute.
-
-Dates will be added here once each report is sent.
+- 2026-10-23: CRA, PDOC team, through the feedback form of the PDOC page.
+- 2026-10-23: CRA, payroll deductions formulas (T4127), through the feedback form of the T4127 page (the small form-name error in Chapter 5, Prince Edward Island).
+- 2026-10-23: CRA Accessibility Service Feedback, by e-mail (the Schedule 8 e-text differences).
+- 2026-10-23: National Payroll Institute, by e-mail.
+- CRA service feedback (form RC193) with the full report: to follow.
 
 ## Corrections
 
@@ -211,7 +208,7 @@ be listed here.
 
 ## History
 
-- 2026-10-23: runs and first version.
+- 2026-10-23: runs and first version; reports sent (see "Who was informed").
 
 ## License
 
