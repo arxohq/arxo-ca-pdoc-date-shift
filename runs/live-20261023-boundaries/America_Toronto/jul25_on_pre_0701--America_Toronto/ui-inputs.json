@@ -1,0 +1,146 @@
+[
+  {
+    "name": "td1ClaimCodeType",
+    "id": "00b3880a-78b8-fcb4-2fd4-3b7044bff69f",
+    "type": "radio",
+    "value": "CLAIM_AMOUNT_TD1",
+    "checked": true,
+    "valid": true
+  },
+  {
+    "name": "td1ClaimCodeType",
+    "id": "08cc9807-bfaf-ac0b-10eb-d2c56949760a",
+    "type": "radio",
+    "value": "CLAIM_AMOUNT_TD1_CLAIM_CODES",
+    "checked": false,
+    "valid": true
+  },
+  {
+    "name": "",
+    "id": "7596b584-ad9e-93a1-4045-1cfe740fc0a5",
+    "type": "text",
+    "value": "16,129.00",
+    "checked": false,
+    "valid": true
+  },
+  {
+    "name": "",
+    "id": "2802fa22-cfb4-fb93-93a1-89dda8f764d7",
+    "type": "text",
+    "value": "",
+    "checked": false,
+    "valid": true
+  },
+  {
+    "name": "",
+    "id": "2e26eedc-9c14-c1ac-dff6-1b7efceb700d",
+    "type": "text",
+    "value": "12,747.00",
+    "checked": false,
+    "valid": true
+  },
+  {
+    "name": "cppQppType",
+    "id": "6b705962-e96d-cb42-4d82-7ca6662b869a",
+    "type": "radio",
+    "value": "CPP_QPP_MAX_ANNUAL_CONTRIBUTION_REACHED",
+    "checked": false,
+    "valid": true
+  },
+  {
+    "name": "cppQppType",
+    "id": "19575a24-7a71-d881-aad7-616e57e9ce92",
+    "type": "radio",
+    "value": "CPP_QPP_EXEMPT",
+    "checked": false,
+    "valid": true
+  },
+  {
+    "name": "cppQppType",
+    "id": "62539a09-04e1-ccb8-ad24-b0a2269fc26f",
+    "type": "radio",
+    "value": "CPP_QPP_YEAR_TO_DATE",
+    "checked": true,
+    "valid": true
+  },
+  {
+    "name": "",
+    "id": "c4fa55d6-f8db-401c-f9c5-88335941a689",
+    "type": "text",
+    "value": "12",
+    "checked": false,
+    "valid": true
+  },
+  {
+    "name": "",
+    "id": "e08e1140-69e9-8373-ce58-03ef0c2aa70c",
+    "type": "text",
+    "value": "",
+    "checked": false,
+    "valid": true
+  },
+  {
+    "name": "",
+    "id": "871e9bbb-848c-a89f-1102-62adca24444f",
+    "type": "text",
+    "value": "",
+    "checked": false,
+    "valid": true
+  },
+  {
+    "name": "",
+    "id": "b613ec2a-823a-a234-a3fa-ad6c84fddf89",
+    "type": "text",
+    "value": "",
+    "checked": false,
+    "valid": true
+  },
+  {
+    "name": "employmentInsuranceType",
+    "id": "4f45103f-aaf2-0b4a-e33e-152446007232",
+    "type": "radio",
+    "value": "EI_MAX_ANNUAL_CONTRIBUTION_REACHED",
+    "checked": false,
+    "valid": true
+  },
+  {
+    "name": "employmentInsuranceType",
+    "id": "49af9392-3a6c-5a4f-0612-d495c6549d9d",
+    "type": "radio",
+    "value": "EI_EXEMPT",
+    "checked": false,
+    "valid": true
+  },
+  {
+    "name": "employmentInsuranceType",
+    "id": "f96e4a1c-9c00-10da-83f9-261e2dda08c1",
+    "type": "radio",
+    "value": "EI_YEAR_TO_DATE",
+    "checked": true,
+    "valid": true
+  },
+  {
+    "name": "",
+    "id": "fe32cafb-e450-e636-1248-6e8d9600a3da",
+    "type": "text",
+    "value": "",
+    "checked": false,
+    "valid": true
+  },
+  {
+    "name": "",
+    "id": "83ecf6f2-fe6c-d3da-1381-148e936abf84",
+    "type": "text",
+    "value": "",
+    "checked": false,
+    "valid": true
+  },
+  {
+    "name": "",
+    "id": "f3d07b94-f30a-6952-ab1a-301352f663af",
+    "type": "text",
+    "value": "1.4",
+    "checked": false,
+    "valid": true
+  }
+]

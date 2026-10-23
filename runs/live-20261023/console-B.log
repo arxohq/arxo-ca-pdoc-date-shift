@@ -1,0 +1,10 @@
+{"case": "monthly_june", "tz": "America/Winnipeg", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 132.21, "request_date": "2026-06-30T05:00:00.000Z"}
+{"case": "monthly_july", "tz": "America/Winnipeg", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 160.43, "request_date": "2026-07-01T05:00:00.000Z"}
+{"case": "monthly_july2", "tz": "America/Winnipeg", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 160.43, "request_date": "2026-07-02T05:00:00.000Z"}
+{"case": "monthly_june", "tz": "America/Regina", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 132.21, "request_date": "2026-06-30T06:00:00.000Z"}
+{"case": "monthly_july", "tz": "America/Regina", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 160.43, "request_date": "2026-07-01T06:00:00.000Z"}
+{"case": "monthly_july2", "tz": "America/Regina", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 160.43, "request_date": "2026-07-02T06:00:00.000Z"}
+2026-10-23T15:37:59Z America/Edmonton: first attempt hung >12 min in case monthly_june with no output (no files, no console line); process killed by operator; dir removed and rerun
+{"case": "monthly_june", "tz": "America/Edmonton", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 132.21, "request_date": "2026-06-30T06:00:00.000Z"}
+{"case": "monthly_july", "tz": "America/Edmonton", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 160.43, "request_date": "2026-07-01T06:00:00.000Z"}
+{"case": "monthly_july2", "tz": "America/Edmonton", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 160.43, "request_date": "2026-07-02T06:00:00.000Z"}

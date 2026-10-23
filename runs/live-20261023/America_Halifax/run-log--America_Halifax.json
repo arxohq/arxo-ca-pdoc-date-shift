@@ -1,0 +1,20 @@
+[
+  {
+    "case": "monthly_june",
+    "timezone": "America/Halifax",
+    "ok": true,
+    "directory": "runs/live-20261023/America_Halifax/monthly_june--America_Halifax"
+  },
+  {
+    "case": "monthly_july",
+    "timezone": "America/Halifax",
+    "ok": true,
+    "directory": "runs/live-20261023/America_Halifax/monthly_july--America_Halifax"
+  },
+  {
+    "case": "monthly_july2",
+    "timezone": "America/Halifax",
+    "ok": true,
+    "directory": "runs/live-20261023/America_Halifax/monthly_july2--America_Halifax"
+  }
+]

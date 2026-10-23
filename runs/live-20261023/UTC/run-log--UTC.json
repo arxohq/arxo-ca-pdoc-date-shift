@@ -1,0 +1,20 @@
+[
+  {
+    "case": "monthly_june",
+    "timezone": "UTC",
+    "ok": true,
+    "directory": "runs/live-20261023/UTC/monthly_june--UTC"
+  },
+  {
+    "case": "monthly_july",
+    "timezone": "UTC",
+    "ok": true,
+    "directory": "runs/live-20261023/UTC/monthly_july--UTC"
+  },
+  {
+    "case": "monthly_july2",
+    "timezone": "UTC",
+    "ok": true,
+    "directory": "runs/live-20261023/UTC/monthly_july2--UTC"
+  }
+]

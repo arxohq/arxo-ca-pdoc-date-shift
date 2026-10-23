@@ -1,0 +1,478 @@
+{
+  "prefill_text_fields": [
+    "16,452.00",
+    "",
+    "13,216.00",
+    "12",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "1.4"
+  ],
+  "case_id": "yr_bc_man_0102",
+  "inputs": {
+    "id": "yr_bc_man_0102",
+    "group": "year2026",
+    "province": "BRITISH_COLUMBIA",
+    "date_paid": "2026-01-02",
+    "freq": "MONTHLY_12PP",
+    "periods": 12,
+    "gross": "4000",
+    "pensionable_months": 12,
+    "pensionable_earnings_ytd": "0",
+    "cpp_ytd": "0",
+    "cpp2_ytd": "0",
+    "ei_ytd": "0",
+    "insurable_earnings_ytd": "0",
+    "employee_age": 35,
+    "single_employer": true,
+    "payment_type": "ordinary_salary",
+    "td1_mode": "manual",
+    "td1_federal": "16452",
+    "td1_prov": "13216",
+    "pdf": false
+  },
+  "browser_timezone": "UTC",
+  "browser": "155.0.8059.86",
+  "accessed_utc": "2026-10-23T18:32:58.675971+00:00",
+  "accessed_client_date_utc": "2026-10-23",
+  "accessed_client_date_local": "2026-10-23",
+  "entry_url": "https://apps.cra-arc.gc.ca/ebci/rhpd/beta/entry/en",
+  "request_url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/SALARY/calculate",
+  "status": 200,
+  "frontend_script_urls": [
+    "https://apps.cra-arc.gc.ca/ebci/wet/v15.0.0/wet-boew/js/i18n/en.min.js",
+    "https://assets.adobedtm.com/be5dfd287373/9b9cb7867b5b/launch-59d77766b86a.min.js",
+    "https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement.min.js",
+    "https://assets.adobedtm.com/be5dfd287373/9b9cb7867b5b/244a271eb31c/RC22f6730a9f654a83b2544a0546c69b65-source.min.js",
+    "https://apps.cra-arc.gc.ca/ebci/wet/v15.0.0/wet-boew/js/jquery/2.2.4/jquery.min.js",
+    "https://apps.cra-arc.gc.ca/ebci/wet/v15.0.0/wet-boew/js/wet-boew.min.js",
+    "https://apps.cra-arc.gc.ca/ebci/wet/v15.0.0/GCWeb/js/theme.min.js",
+    "https://apps.cra-arc.gc.ca/ebci/wet/v15.0.0/cra-arc/apps.js",
+    "https://apps.cra-arc.gc.ca/ebci/rhpd/polyfills-WEDFSMFL.js",
+    "https://apps.cra-arc.gc.ca/ebci/rhpd/main-SDC6RCQ2.js"
+  ],
+  "screen_version": [
+    "2026-06-11"
+  ],
+  "runtime_versions": {
+    "getutmessageinternalversion": {
+      "status": 200,
+      "body": ")]}',\n2026.02"
+    },
+    "getappversion": {
+      "status": 200,
+      "body": ")]}',\n2026.02"
+    },
+    "getdeployidversion": {
+      "status": 200,
+      "body": ")]}',\n14"
+    }
+  },
+  "calculation_rates": [
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/calculationRates/SALARY/BRITISH_COLUMBIA/2026-01-02",
+      "status": 200,
+      "body": ")]}',\n{\"cppMaxContribution\":4230.45,\"eiMaxPremium\":1123.07}"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/calculationRates/SALARY/BRITISH_COLUMBIA/2026-01-02",
+      "status": 200,
+      "body": ")]}',\n{\"cppMaxContribution\":4230.45,\"eiMaxPremium\":1123.07}"
+    }
+  ],
+  "pdf": null,
+  "td1_shown_fed": "16,452.00",
+  "td1_shown_prov": "13,216.00",
+  "request_sha256": "ec23566c53fe3b827297371e62f7e99acb035d1cedff4a4ccc053736c8966c4e",
+  "reply_raw_sha256": "88bb1aa6b5ce48c449b1e9bd972913163970d3576cacb46f9af240be085ea79c",
+  "reply_json_sha256": "645bd3b47ac6a29d6f84d098b36e6281742681d82d686f03c22cb3d223c1bc6f",
+  "result_html_sha256": "0850baa89133e2c23f3d63e502134b7e4b108d7617e63ee047165ab273ba9ca4",
+  "fresh_public_runtime": true,
+  "resource_records": [
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/beta/entry/en",
+      "status": 200,
+      "type": "document",
+      "snapshot": "client/447526958af0c8e0.html",
+      "bytes": 2864,
+      "sha256": "f730518c506dc32bebfae89f3b009678c0c0fdc3e7d2cf0ff64d15dd51b0855a"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/wet/v15.0.0/GCWeb/css/theme.min.css",
+      "status": 200,
+      "type": "stylesheet",
+      "snapshot": "client/2c791ee3d37192cd.css",
+      "bytes": 386112,
+      "sha256": "9c3f35e8b104b1ac54bc7afa5da4c9ce56fed59afc1f8e81dd388805e33710fd"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/wet/v15.0.0/cra-arc/apps.css",
+      "status": 200,
+      "type": "stylesheet",
+      "snapshot": "client/99409be8c8761e06.css",
+      "bytes": 6198,
+      "sha256": "a86f2fb49c9a95b21421f79edcaa5a0ce47796977a2c81329a55d0c579580c5e"
+    },
+    {
+      "url": "https://assets.adobedtm.com/be5dfd287373/9b9cb7867b5b/launch-59d77766b86a.min.js",
+      "status": 200,
+      "type": "script",
+      "snapshot": "client/ac1250feb0dff51f.js",
+      "bytes": 650616,
+      "sha256": "0e072e7d7deb311527ac5385da31b177c900f11523fd23c4237a2bf910dd300b"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/styles-VNVEEP5U.css",
+      "status": 200,
+      "type": "stylesheet",
+      "snapshot": "client/326a2154102097df.css",
+      "bytes": 2025,
+      "sha256": "d6449af74a80f3ec7f1913bc455687f555d3221598d595ed177fd0812b524137"
+    },
+    {
+      "url": "https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement.min.js",
+      "status": 200,
+      "type": "script",
+      "snapshot": "client/258f564a8d0539b4.js",
+      "bytes": 36178,
+      "sha256": "7db8d077fc21c20f1449a2603d524e423cfa25d7df6d5fd845a8e5e883aa227e"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/wet/v15.0.0/GCWeb/js/theme.min.js",
+      "status": 200,
+      "type": "script",
+      "snapshot": "client/0e5fed43d562c1ea.js",
+      "bytes": 46620,
+      "sha256": "2e1ad31f702031ad4c06a5d97ebf42aa7d24fd902eb1c5764c14855256fc8630"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/wet/v15.0.0/cra-arc/font-awesome-6.1.1/css/all.css",
+      "status": 200,
+      "type": "stylesheet",
+      "snapshot": "client/7508dd9770933fc5.css",
+      "bytes": 145748,
+      "sha256": "c1cf11abbe8ba0ef81b7104b69fb50d7fe6cd5a457123cb9b774f870731b04a6"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/wet/v15.0.0/wet-boew/js/jquery/2.2.4/jquery.min.js",
+      "status": 200,
+      "type": "script",
+      "snapshot": "client/4d352da737884916.js",
+      "bytes": 85582,
+      "sha256": "b409c14a10b4caad6b54844aa63a5faf748b83eecc2dd0d4fb1d913f8de55365"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/wet/v15.0.0/cra-arc/apps.js",
+      "status": 200,
+      "type": "script",
+      "snapshot": "client/b56b512ee370f9b0.js",
+      "bytes": 8556,
+      "sha256": "68a13ccf3f3b68aca3fe5e87741295efc6d63494727ff696b9a2a69ba8540617"
+    },
+    {
+      "url": "https://canada.demdex.net/dest5.html?d_nsid=0",
+      "status": 200,
+      "type": "document",
+      "snapshot": "client/5235ae50f4d75f85.html",
+      "bytes": 6983,
+      "sha256": "7bea17a80a61ed0f54248b4ffc4c718f7c8ff2619742577a73591d62ce074da8"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/wet/v15.0.0/wet-boew/js/wet-boew.min.js",
+      "status": 200,
+      "type": "script",
+      "snapshot": "client/c4c05592962e6efe.js",
+      "bytes": 218095,
+      "sha256": "bb2bfc82daff844943eba0796c47bc56769e591a3511394d991d573190ceb5db"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/polyfills-WEDFSMFL.js",
+      "status": 200,
+      "type": "script",
+      "snapshot": "client/28339249529eff10.js",
+      "bytes": 92213,
+      "sha256": "e4f8adb8437efaac9d99f659ab6610151b43af41a034f4597f014badae1724c2"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/wet/v15.0.0/wet-boew/js/i18n/en.min.js",
+      "status": 200,
+      "type": "script",
+      "snapshot": "client/375241811aff5e3a.js",
+      "bytes": 6734,
+      "sha256": "ef1c8461ce8f0b462077b9d98cccbd48f7707a8a0f3e096521e429c69aa84baf"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/main-SDC6RCQ2.js",
+      "status": 200,
+      "type": "script",
+      "snapshot": "client/3f2a18dab8880790.js",
+      "bytes": 3587229,
+      "sha256": "81000faa264261a78f974098c18f5a9d039d9e6e3e802d26ae3a8d02e11f57c8"
+    },
+    {
+      "url": "https://assets.adobedtm.com/be5dfd287373/9b9cb7867b5b/244a271eb31c/RC22f6730a9f654a83b2544a0546c69b65-source.min.js",
+      "status": 200,
+      "type": "script",
+      "snapshot": "client/3b46b15edd1bb319.js",
+      "bytes": 330,
+      "sha256": "73baf27af392b79e439fde2631356ab8197f90aec6578fd894f1929f653b49a0"
+    }
+  ],
+  "page_errors": [],
+  "observed_api_responses": [
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/log/cfg",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/log/noop",
+      "status": 200,
+      "method": "POST"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/links/undefined",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/links/en",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getdisplaynewversionmessageuntil",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getutmessagedisplayable",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getutmessageinternalversion",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getappversion",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getdeployidversion",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/SALARY/supportedYearList",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/links/en",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getdisplaynewversionmessageuntil",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getutmessagedisplayable",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getutmessageinternalversion",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getappversion",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getdeployidversion",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/links/en",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/SALARY/supportedPayPeriodFrequencyList",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getutmessagedisplayable",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getutmessageinternalversion",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getappversion",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getdeployidversion",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/links/en",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/SALARY/validateGeneralData",
+      "status": 200,
+      "method": "POST"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/links/en",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getutmessagedisplayable",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getutmessageinternalversion",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getappversion",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getdeployidversion",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/calculationRates/SALARY/BRITISH_COLUMBIA/2026-01-02",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/links/en",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/SALARY/calculateClaimAmounts",
+      "status": 200,
+      "method": "POST"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/SALARY/calculateClaimCodes",
+      "status": 200,
+      "method": "POST"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/calculationRates/SALARY/BRITISH_COLUMBIA/2026-01-02",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/SALARY/calculateClaimCodes",
+      "status": 200,
+      "method": "POST"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getutmessagedisplayable",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getutmessageinternalversion",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getappversion",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getdeployidversion",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/SALARY/validate",
+      "status": 200,
+      "method": "POST"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/SALARY/calculateClaimCodes",
+      "status": 200,
+      "method": "POST"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/SALARY/isFedProvTaxExemptDisplay",
+      "status": 200,
+      "method": "POST"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/SALARY/calculate",
+      "status": 200,
+      "method": "POST"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/SALARY/calculateClaimCodes",
+      "status": 200,
+      "method": "POST"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/SALARY/calculateClaimCodes",
+      "status": 200,
+      "method": "POST"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/SALARY/calculateResultClaimCode",
+      "status": 200,
+      "method": "POST"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getutmessagedisplayable",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getutmessageinternalversion",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getappversion",
+      "status": 200,
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.cra-arc.gc.ca/ebci/rhpd/rest/api/ext/priv/calculator/getdeployidversion",
+      "status": 200,
+      "method": "GET"
+    }
+  ],
+  "request_method": "POST"
+}

@@ -1,0 +1,84 @@
+Skip to main content
+Skip to "About this site"
+Skip to section menu
+/ Gouvernement du Canada
+Language selection
+Français
+You are here:
+Canada.caTaxesPayroll Deductions Online Calculator
+Salary calculation: Result
+Step 4 of 4
+Employee info
+Employee info Employee info is done
+Salary info
+Salary info Salary info is done
+Additional info
+Additional info Additional info is done
+4
+Results
+Results
+Employee's name
+Employer's name
+Pay period frequency
+Monthly (12 pay periods a year)
+Date the employee is paid
+2026-01-01 (YYYY-MM-DD)
+Province of employment
+British Columbia
+Federal amount from TD1
+16,452.00
+Provincial amount from TD1
+13,216.00
+Salary or wages income		4,000.00	
+Total cash income			4,000.00
+Federal tax deduction	310.53		
+Provincial tax deduction	132.21		
+Total tax deductions		442.74	
+CPP deductions		220.65	
+CPP2 deductions		0.00	
+EI deductions		65.20	
+Total deductions			728.59
+Net amount			3,271.41
+Other Amounts
+Deductions for CPP additional contribution
+37.08
+Taxable income for the pay period
+3,962.92
+Pensionable earnings for the pay period
+4,000.00
+Insurable earnings for the pay period
+4,000.00
+
+Year-to-Date Amounts	Inputted Value	Total for this Record
+Pensionable earnings	0.00	4,000.00
+CPP contributions	0.00	220.65
+CPP2 contributions	0.00	0.00
+Insurable earnings	0.00	4,000.00
+EI premiums	0.00	65.20
+
+Based on pensionable months entered, the employee and employer Canada Pension Plan contribution maximum for the year is $4,230.45. If the employee's YMPE is reached, the CPP2 contributions are required. Based on pensionable months entered, the employee and employer CPP2 contribution maximum for the year is $416.00.
+
+The printed calculations created by PDOC are not intended to be used as a statement of earnings. Please contact your employment standards representative for all of the information legally required on a statement of earnings specific to your province or territory.
+
+PreviousEmployer Remittance Summary
+ View results in PDF View combined results in PDFView Result as row
+Modify the Current CalculationNext CalculationStart Over
+Screen ID:
+SA_R
+Version:
+2026-06-11
+Secondary menu
+Payroll Deductions Online Calculator
+How to use PDOC
+Result screen information
+FAQ
+Need help?
+Business enquiries
+About this site
+Canada Revenue Agency (CRA)
+Contact the CRA
+About the CRA
+Compliance and enforcement
+Government of Canada Corporate
+Terms and conditionsPrivacy
+ 

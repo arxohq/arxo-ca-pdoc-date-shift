@@ -1,0 +1,20 @@
+[
+  {
+    "case": "monthly_june",
+    "timezone": "America/Edmonton",
+    "ok": true,
+    "directory": "runs/live-20261023/America_Edmonton/monthly_june--America_Edmonton"
+  },
+  {
+    "case": "monthly_july",
+    "timezone": "America/Edmonton",
+    "ok": true,
+    "directory": "runs/live-20261023/America_Edmonton/monthly_july--America_Edmonton"
+  },
+  {
+    "case": "monthly_july2",
+    "timezone": "America/Edmonton",
+    "ok": true,
+    "directory": "runs/live-20261023/America_Edmonton/monthly_july2--America_Edmonton"
+  }
+]

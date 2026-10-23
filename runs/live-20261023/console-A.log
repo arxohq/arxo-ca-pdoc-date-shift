@@ -1,0 +1,9 @@
+{"case": "monthly_june", "tz": "America/Toronto", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 132.21, "request_date": "2026-06-30T04:00:00.000Z"}
+{"case": "monthly_july", "tz": "America/Toronto", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 160.43, "request_date": "2026-07-01T04:00:00.000Z"}
+{"case": "monthly_july2", "tz": "America/Toronto", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 160.43, "request_date": "2026-07-02T04:00:00.000Z"}
+{"case": "monthly_june", "tz": "America/Halifax", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 132.21, "request_date": "2026-06-30T03:00:00.000Z"}
+{"case": "monthly_july", "tz": "America/Halifax", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 132.21, "request_date": "2026-07-01T03:00:00.000Z"}
+{"case": "monthly_july2", "tz": "America/Halifax", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 160.43, "request_date": "2026-07-02T03:00:00.000Z"}
+{"case": "monthly_june", "tz": "America/St_Johns", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 132.21, "request_date": "2026-06-30T02:30:00.000Z"}
+{"case": "monthly_july", "tz": "America/St_Johns", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 132.21, "request_date": "2026-07-01T02:30:00.000Z"}
+{"case": "monthly_july2", "tz": "America/St_Johns", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 160.43, "request_date": "2026-07-02T02:30:00.000Z"}

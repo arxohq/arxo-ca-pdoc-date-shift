@@ -1,0 +1,9 @@
+{"case": "monthly_june", "tz": "America/Vancouver", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 132.21, "request_date": "2026-06-30T07:00:00.000Z"}
+{"case": "monthly_july", "tz": "America/Vancouver", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 160.43, "request_date": "2026-07-01T07:00:00.000Z"}
+{"case": "monthly_july2", "tz": "America/Vancouver", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 160.43, "request_date": "2026-07-02T07:00:00.000Z"}
+{"case": "monthly_june", "tz": "UTC", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 132.21, "request_date": "2026-06-30T00:00:00.000Z"}
+{"case": "monthly_july", "tz": "UTC", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 132.21, "request_date": "2026-07-01T00:00:00.000Z"}
+{"case": "monthly_july2", "tz": "UTC", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 160.43, "request_date": "2026-07-02T00:00:00.000Z"}
+{"case": "monthly_june", "tz": "Europe/Moscow", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 132.21, "request_date": "2026-06-29T21:00:00.000Z"}
+{"case": "monthly_july", "tz": "Europe/Moscow", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 132.21, "request_date": "2026-06-30T21:00:00.000Z"}
+{"case": "monthly_july2", "tz": "Europe/Moscow", "cpp": 220.65, "cpp2": 0.0, "ei": 65.2, "provincial": 160.43, "request_date": "2026-07-01T21:00:00.000Z"}

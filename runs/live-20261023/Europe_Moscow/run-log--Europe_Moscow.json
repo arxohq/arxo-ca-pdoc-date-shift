@@ -1,0 +1,20 @@
+[
+  {
+    "case": "monthly_june",
+    "timezone": "Europe/Moscow",
+    "ok": true,
+    "directory": "runs/live-20261023/Europe_Moscow/monthly_june--Europe_Moscow"
+  },
+  {
+    "case": "monthly_july",
+    "timezone": "Europe/Moscow",
+    "ok": true,
+    "directory": "runs/live-20261023/Europe_Moscow/monthly_july--Europe_Moscow"
+  },
+  {
+    "case": "monthly_july2",
+    "timezone": "Europe/Moscow",
+    "ok": true,
+    "directory": "runs/live-20261023/Europe_Moscow/monthly_july2--Europe_Moscow"
+  }
+]

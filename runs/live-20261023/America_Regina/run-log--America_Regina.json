@@ -1,0 +1,20 @@
+[
+  {
+    "case": "monthly_june",
+    "timezone": "America/Regina",
+    "ok": true,
+    "directory": "runs/live-20261023/America_Regina/monthly_june--America_Regina"
+  },
+  {
+    "case": "monthly_july",
+    "timezone": "America/Regina",
+    "ok": true,
+    "directory": "runs/live-20261023/America_Regina/monthly_july--America_Regina"
+  },
+  {
+    "case": "monthly_july2",
+    "timezone": "America/Regina",
+    "ok": true,
+    "directory": "runs/live-20261023/America_Regina/monthly_july2--America_Regina"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "case": "monthly_june",
+    "timezone": "America/Vancouver",
+    "ok": true,
+    "directory": "runs/live-20261023/America_Vancouver/monthly_june--America_Vancouver"
+  },
+  {
+    "case": "monthly_july",
+    "timezone": "America/Vancouver",
+    "ok": true,
+    "directory": "runs/live-20261023/America_Vancouver/monthly_july--America_Vancouver"
+  },
+  {
+    "case": "monthly_july2",
+    "timezone": "America/Vancouver",
+    "ok": true,
+    "directory": "runs/live-20261023/America_Vancouver/monthly_july2--America_Vancouver"
+  }
+]
